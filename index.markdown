@@ -5,4 +5,3 @@
 layout: home
 ---
 
-This is index.markdown
