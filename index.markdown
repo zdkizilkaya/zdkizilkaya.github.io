@@ -5,4 +5,3 @@
 layout: home
 ---
 
-Hello ! This is zdkizilkaya :D
